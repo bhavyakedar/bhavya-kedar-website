@@ -19,7 +19,8 @@ export default defineUserConfig({
         link: '/blogs'
       }
     ],
-    logo: '/images/bk-logo.jpeg',
+    logo: '/images/bk-logo-light-bg.png',
+    logoDark: '/images/bk-logo-dark-bg.png',
     sidebar: 'auto',
     colorMode: 'auto',
   }),
