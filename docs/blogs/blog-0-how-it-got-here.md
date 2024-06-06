@@ -1,5 +1,5 @@
 # Blog 0 - How it got here?
-##### 6th June 2024
+##### 7th June 2024
 ##
 The website's finally up! After a good deal of struggling with procrastination, it is finally there. What's the purpose of this website you ask? To post all the technical stuff that fascinates me. So lets start with 'How I built this website?' first.
 
