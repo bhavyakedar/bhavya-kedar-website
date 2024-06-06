@@ -2,8 +2,5 @@
 sidebar: false
 ---
 
-## <a href="./blogs/blog-test.md"> First Blog Title </a>
-26 May 2024
-
-## <a href="./blogs/blog-test.md"> Second Blog Title </a>
-26 May 2024
+## <a href="./blogs/blog-0-how-it-got-here.md">Blog 0 - How it got here?</a>
+6 June 2024

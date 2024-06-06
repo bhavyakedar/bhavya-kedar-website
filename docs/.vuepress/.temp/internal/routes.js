@@ -4,8 +4,8 @@ export const routes = Object.fromEntries([
   ["/blogs.html", { loader: () => import(/* webpackChunkName: "blogs.html" */"/Users/bhavya.kedar/IdeaProjects/bhavya-kedar-blog-website/blog-website/docs/.vuepress/.temp/pages/blogs.html.js"), meta: {"title":""} }],
   ["/contact.html", { loader: () => import(/* webpackChunkName: "contact.html" */"/Users/bhavya.kedar/IdeaProjects/bhavya-kedar-blog-website/blog-website/docs/.vuepress/.temp/pages/contact.html.js"), meta: {"title":"Contact"} }],
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"/Users/bhavya.kedar/IdeaProjects/bhavya-kedar-blog-website/blog-website/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Bhavya Kedar"} }],
-  ["/blogs/blog-test.html", { loader: () => import(/* webpackChunkName: "blogs_blog-test.html" */"/Users/bhavya.kedar/IdeaProjects/bhavya-kedar-blog-website/blog-website/docs/.vuepress/.temp/pages/blogs/blog-test.html.js"), meta: {"title":"Test Blog"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/Users/bhavya.kedar/IdeaProjects/bhavya-kedar-blog-website/blog-website/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
+  ["/blogs/blog-0-how-it-got-here.html", { loader: () => import(/* webpackChunkName: "blogs_blog-0-how-it-got-here.html" */"/Users/bhavya.kedar/IdeaProjects/bhavya-kedar-blog-website/blog-website/docs/.vuepress/.temp/pages/blogs/blog-0-how-it-got-here.html.js"), meta: {"title":"Blog 0 - How it got here?"} }],
 ]);
 
 if (import.meta.webpackHot) {
