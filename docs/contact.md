@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Contact
-icon: /images/bk-logo.jpeg
+icon: /images/bk-logo.webp
 sidebar: false
 ---
 

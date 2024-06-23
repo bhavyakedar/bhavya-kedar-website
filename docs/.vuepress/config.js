@@ -19,8 +19,8 @@ export default defineUserConfig({
         link: '/blogs'
       }
     ],
-    logo: '/images/bk-logo-light-bg.png',
-    logoDark: '/images/bk-logo-dark-bg.png',
+    logo: '/images/bk-logo-light-bg.webp',
+    logoDark: '/images/bk-logo-dark-bg.webp',
     sidebar: 'auto',
     colorMode: 'auto',
     notFound: ['Oops, seems like you got lost!'],

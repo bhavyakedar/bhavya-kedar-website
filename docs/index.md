@@ -4,7 +4,7 @@ title: Bhavya Kedar
 heroText: Bhavya Kedar
 heroImage: /images/bhavya-kedar.webp
 tagline: "A personal website for sharing projects, blogs, ideas, events and network."
-icon: /images/bk-logo.jpeg
+icon: /images/bk-logo.webp
 home: true
 portfolio: true
 ---
