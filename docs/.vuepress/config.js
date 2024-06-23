@@ -23,6 +23,9 @@ export default defineUserConfig({
     logoDark: '/images/bk-logo-dark-bg.png',
     sidebar: 'auto',
     colorMode: 'auto',
+    notFound: ['Oops, seems like you got lost!'],
+    backToHome: 'Take me back home.',
+    home: '/'
   }),
 })
 
